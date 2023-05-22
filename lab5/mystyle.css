@@ -1,0 +1,74 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #e4b3b3;
+    margin: 0;
+    padding: 0;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  /* mystyle.css */
+  
+  /* Styles for the navigation menu */
+  nav {
+    background-color: #ff0000;
+    padding: 10px;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav li {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+  nav a {
+    color: #fff;
+    text-decoration: none;
+    padding: 5px 10px;
+  }
+  
+  nav a:hover {
+    background-color: #555;
+  }
+  
+  
+  /* mystyle.css */
+  
+  /* Center alignment for navigation menu */
+  nav {
+    display: flex;
+    justify-content: center;
+  }
+  
+  /* Center alignment for header */
+  header {
+    text-align: center;
+  }
+  
+  /* Center alignment for h2 */
+  h2 {
+    text-align: center;
+  }
+
+  h4 {
+    text-align: center;
+  }
+  
+  /* Center alignment for p */
+  p {
+    text-align: center;
+  }
+
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+  }
